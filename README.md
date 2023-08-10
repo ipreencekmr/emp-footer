@@ -26,3 +26,8 @@
 
 <img width="567" alt="footer-unit" src="https://github.com/ipreencekmr/emp-footer/assets/3636918/3c880fea-4ad4-41ba-952b-a9c7509b83bf">
 
+## Glimpse of User Interface
+
+![footer](https://github.com/ipreencekmr/emp-footer/assets/3636918/81e3107e-c8a0-439f-8988-fa4616e18027)
+
+

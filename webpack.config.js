@@ -44,7 +44,8 @@ module.exports = (_, argv) => ({
         new ModuleFederationPlugin({
             name: "emp_footer",
             filename: "remoteEntry.js",
-            remotes: {},
+            remotes: {
+            },
             exposes: {
                 "./Footer": "./src/App.jsx",
             },

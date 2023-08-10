@@ -5,7 +5,8 @@ import {
     faHome, 
     faPhone, 
     faEnvelope, 
-    faPrint} from "@fortawesome/free-solid-svg-icons";
+    faPrint
+} from "@fortawesome/free-solid-svg-icons";
   
 export const ContactUs = () => {
     return (

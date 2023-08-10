@@ -5,10 +5,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { 
     faAtom, 
     faBriefcase, 
-    faFontAwesome } from "@fortawesome/free-solid-svg-icons";
+    faFontAwesome 
+} from "@fortawesome/free-solid-svg-icons";
 
-import { 
-    faBootstrap } from "@fortawesome/free-brands-svg-icons";
+import { faBootstrap } from "@fortawesome/free-brands-svg-icons";
 
 export const UsefulLinks = () => {
     return (

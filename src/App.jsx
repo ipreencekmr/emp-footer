@@ -1,6 +1,5 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import "./index.css";
 
 import { AboutMe } from "./components/AboutMe";
 import { Header } from "./components/Header";
@@ -27,6 +26,7 @@ const App = () => (
 );
 
 const root = createRoot(document.getElementById("app"));
+
 root.render(<App />);
 
 export default App;

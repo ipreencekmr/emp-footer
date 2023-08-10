@@ -5,7 +5,9 @@ const deps = require("./package.json").dependencies;
 // eslint-disable-next-line no-unused-vars
 module.exports = (_, argv) => ({
     output: {
-        publicPath: "http://localhost:3005/",
+        publicPath: argv.mode == "development" ? 
+            "http://localhost:3005/":
+            "http://app.learn-coding.xyz:3005/",
     },
 
     resolve: {
